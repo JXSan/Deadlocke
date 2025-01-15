@@ -1,6 +1,6 @@
 # Deadlocke - Decentralized Crypto Exchange
 
-Deadlocke was a side project designed to swap tokens on the same chaing, utilizing Paraswap's API for rapid routing and token swapping. As for now, Deadlocke is only supported on the Ethereum & Polygon blockchain, with more possible support in the future. 
+Deadlocke was a side project designed to swap tokens on the same chain, utilizing Paraswap's API for rapid routing and token swapping. As for now, Deadlocke is only supported on the Ethereum & Polygon blockchain, with more support in the future. 
 
 
 Below is the user interface of the platform. Simply a two input form that takes in a source token amount, followed by the receiving token amount.
